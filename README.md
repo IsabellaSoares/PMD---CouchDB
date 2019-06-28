@@ -1,4 +1,4 @@
-# PMD - CouchDB
+# Processamento Massivo de Dados - CouchDB
 
 **UFSCar Sorocaba - 2019/01**
 
