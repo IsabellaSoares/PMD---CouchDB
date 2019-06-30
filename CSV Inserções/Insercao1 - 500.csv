@@ -1,0 +1,501 @@
+﻿year_month,month_of_release,passenger_type,direction,citizenship,visa,country_of_residence,estimate,standard_error,status,_id
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Africa and the Middle East,985,0,Provisional,28062
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Asia,4267,0,Provisional,28063
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Europe,1485,0,Provisional,28064
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Oceania and Antarctica,2559,0,Provisional,28065
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,The Americas,1062,0,Provisional,28066
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Africa and the Middle East,882,0,Provisional,28067
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Asia,3898,5,Provisional,28068
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Europe,2114,5,Provisional,28069
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Oceania and Antarctica,2592,5,Provisional,28070
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,The Americas,1163,2,Provisional,28071
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Africa and the Middle East,952,3,Provisional,28072
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Asia,3937,14,Provisional,28073
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Europe,2261,8,Provisional,28074
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Oceania and Antarctica,2627,13,Provisional,28075
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,The Americas,1062,5,Provisional,28076
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Africa and the Middle East,726,3,Provisional,28077
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Asia,3746,16,Provisional,28078
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Europe,2408,15,Provisional,28079
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Oceania and Antarctica,2910,21,Provisional,28080
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,The Americas,999,6,Provisional,28081
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Africa and the Middle East,90,0,Provisional,28082
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Asia,284,0,Provisional,28083
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Europe,487,0,Provisional,28084
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Oceania and Antarctica,1758,0,Provisional,28085
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,The Americas,212,0,Provisional,28086
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Africa and the Middle East,7,0,Provisional,28087
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Asia,32,0,Provisional,28088
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Europe,18,0,Provisional,28089
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Oceania and Antarctica,24,0,Provisional,28090
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Other,The Americas,12,0,Provisional,28091
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Africa and the Middle East,184,0,Provisional,28092
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Asia,567,0,Provisional,28093
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Europe,110,0,Provisional,28094
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Oceania and Antarctica,270,0,Provisional,28095
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,The Americas,52,0,Provisional,28096
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Africa and the Middle East,154,0,Provisional,28097
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Asia,1194,0,Provisional,28098
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Europe,105,0,Provisional,28099
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Oceania and Antarctica,77,0,Provisional,28100
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Student,The Americas,145,0,Provisional,28101
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Africa and the Middle East,222,0,Provisional,28102
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Asia,1298,0,Provisional,28103
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Europe,192,0,Provisional,28104
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Oceania and Antarctica,227,0,Provisional,28105
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,The Americas,272,0,Provisional,28106
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Africa and the Middle East,328,0,Provisional,28107
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Asia,892,0,Provisional,28108
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Europe,573,0,Provisional,28109
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Oceania and Antarctica,203,0,Provisional,28110
+2017-08,2018-11,Long-term migrant,Arrivals,TOTAL,Work,The Americas,369,0,Provisional,28111
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Africa and the Middle East,50,0,Provisional,28112
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Asia,184,1,Provisional,28113
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Europe,690,1,Provisional,28114
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Oceania and Antarctica,1882,4,Provisional,28115
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,The Americas,209,0,Provisional,28116
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Africa and the Middle East,23,0,Provisional,28117
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Asia,16,0,Provisional,28118
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Europe,19,1,Provisional,28119
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Oceania and Antarctica,10,0,Provisional,28120
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Other,The Americas,19,0,Provisional,28121
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Africa and the Middle East,106,0,Provisional,28122
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Asia,464,1,Provisional,28123
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Europe,153,0,Provisional,28124
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Oceania and Antarctica,222,0,Provisional,28125
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,The Americas,58,0,Provisional,28126
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Africa and the Middle East,130,0,Provisional,28127
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Asia,1237,2,Provisional,28128
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Europe,120,0,Provisional,28129
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Oceania and Antarctica,45,0,Provisional,28130
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Student,The Americas,156,0,Provisional,28131
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Africa and the Middle East,224,0,Provisional,28132
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Asia,1191,2,Provisional,28133
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Europe,221,1,Provisional,28134
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Oceania and Antarctica,207,1,Provisional,28135
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,The Americas,253,1,Provisional,28136
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Africa and the Middle East,349,0,Provisional,28137
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Asia,806,3,Provisional,28138
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Europe,911,5,Provisional,28139
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Oceania and Antarctica,226,1,Provisional,28140
+2017-09,2018-11,Long-term migrant,Arrivals,TOTAL,Work,The Americas,467,2,Provisional,28141
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Africa and the Middle East,60,1,Provisional,28142
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Asia,190,2,Provisional,28143
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Europe,688,3,Provisional,28144
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Oceania and Antarctica,1851,11,Provisional,28145
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,The Americas,236,2,Provisional,28146
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Africa and the Middle East,2,0,Provisional,28147
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Asia,14,0,Provisional,28148
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Europe,11,0,Provisional,28149
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Oceania and Antarctica,71,2,Provisional,28150
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Other,The Americas,11,0,Provisional,28151
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Africa and the Middle East,162,1,Provisional,28152
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Asia,456,4,Provisional,28153
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Europe,169,1,Provisional,28154
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Oceania and Antarctica,198,2,Provisional,28155
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,The Americas,83,0,Provisional,28156
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Africa and the Middle East,169,1,Provisional,28157
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Asia,1165,7,Provisional,28158
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Europe,86,0,Provisional,28159
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Oceania and Antarctica,43,0,Provisional,28160
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Student,The Americas,100,1,Provisional,28161
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Africa and the Middle East,216,1,Provisional,28162
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Asia,1203,7,Provisional,28163
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Europe,309,2,Provisional,28164
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Oceania and Antarctica,224,3,Provisional,28165
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,The Americas,270,3,Provisional,28166
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Africa and the Middle East,343,1,Provisional,28167
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Asia,909,4,Provisional,28168
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Europe,997,6,Provisional,28169
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Oceania and Antarctica,240,2,Provisional,28170
+2017-10,2018-11,Long-term migrant,Arrivals,TOTAL,Work,The Americas,361,3,Provisional,28171
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Africa and the Middle East,964,7,Provisional,28172
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Asia,3054,22,Provisional,28173
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Europe,2174,14,Provisional,28174
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Oceania and Antarctica,4630,38,Provisional,28175
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,The Americas,1028,9,Provisional,28176
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Africa and the Middle East,1166,26,Provisional,28177
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Asia,4753,83,Provisional,28178
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Europe,2262,38,Provisional,28179
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Oceania and Antarctica,3195,45,Provisional,28180
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,The Americas,1066,19,Provisional,28181
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Africa and the Middle East,68,2,Provisional,28182
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Asia,189,3,Provisional,28183
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Europe,683,3,Provisional,28184
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Oceania and Antarctica,1981,19,Provisional,28185
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,The Americas,189,2,Provisional,28186
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Africa and the Middle East,3,0,Provisional,28187
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Asia,62,0,Provisional,28188
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Europe,17,0,Provisional,28189
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Oceania and Antarctica,57,3,Provisional,28190
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Other,The Americas,7,0,Provisional,28191
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Africa and the Middle East,80,1,Provisional,28192
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Asia,464,5,Provisional,28193
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Europe,138,2,Provisional,28194
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Oceania and Antarctica,262,2,Provisional,28195
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,The Americas,41,1,Provisional,28196
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Africa and the Middle East,145,1,Provisional,28197
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Asia,1088,6,Provisional,28198
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Europe,84,2,Provisional,28199
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Oceania and Antarctica,34,0,Provisional,28200
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Student,The Americas,146,1,Provisional,28201
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Africa and the Middle East,157,2,Provisional,28202
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Asia,1083,10,Provisional,28203
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Europe,342,4,Provisional,28204
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Oceania and Antarctica,305,4,Provisional,28205
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,The Americas,264,3,Provisional,28206
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Africa and the Middle East,273,1,Provisional,28207
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Asia,861,5,Provisional,28208
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Europe,1144,13,Provisional,28209
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Oceania and Antarctica,270,4,Provisional,28210
+2017-11,2018-11,Long-term migrant,Arrivals,TOTAL,Work,The Americas,353,4,Provisional,28211
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Africa and the Middle East,867,17,Provisional,28212
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Asia,5391,72,Provisional,28213
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Europe,1488,32,Provisional,28214
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Oceania and Antarctica,2736,52,Provisional,28215
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,The Americas,983,23,Provisional,28216
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Africa and the Middle East,772,15,Provisional,28217
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Asia,4168,53,Provisional,28218
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Europe,1302,32,Provisional,28219
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Oceania and Antarctica,2571,51,Provisional,28220
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,The Americas,938,23,Provisional,28221
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Africa and the Middle East,687,17,Provisional,28222
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Asia,3062,46,Provisional,28223
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Europe,910,27,Provisional,28224
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Oceania and Antarctica,2064,45,Provisional,28225
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,The Americas,677,19,Provisional,28226
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Africa and the Middle East,98,3,Provisional,28227
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Asia,418,6,Provisional,28228
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Europe,994,6,Provisional,28229
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Oceania and Antarctica,3616,33,Provisional,28230
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,The Americas,332,5,Provisional,28231
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Africa and the Middle East,6,0,Provisional,28232
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Asia,31,1,Provisional,28233
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Europe,21,1,Provisional,28234
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Oceania and Antarctica,41,3,Provisional,28235
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Other,The Americas,13,1,Provisional,28236
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Africa and the Middle East,93,2,Provisional,28237
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Asia,424,6,Provisional,28238
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Europe,120,3,Provisional,28239
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Oceania and Antarctica,336,4,Provisional,28240
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,The Americas,28,1,Provisional,28241
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Africa and the Middle East,246,2,Provisional,28242
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Asia,502,6,Provisional,28243
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Europe,70,2,Provisional,28244
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Oceania and Antarctica,39,1,Provisional,28245
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Student,The Americas,74,2,Provisional,28246
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Africa and the Middle East,224,3,Provisional,28247
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Asia,1119,14,Provisional,28248
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Europe,347,6,Provisional,28249
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Oceania and Antarctica,433,8,Provisional,28250
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,The Americas,348,4,Provisional,28251
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Africa and the Middle East,297,3,Provisional,28252
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Asia,560,7,Provisional,28253
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Europe,621,10,Provisional,28254
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Oceania and Antarctica,166,4,Provisional,28255
+2017-12,2018-11,Long-term migrant,Arrivals,TOTAL,Work,The Americas,234,5,Provisional,28256
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Africa and the Middle East,785,16,Provisional,28257
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Asia,3386,48,Provisional,28258
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Europe,938,28,Provisional,28259
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Oceania and Antarctica,2057,43,Provisional,28260
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,The Americas,649,18,Provisional,28261
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Africa and the Middle East,701,16,Provisional,28262
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Asia,3670,53,Provisional,28263
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Europe,861,25,Provisional,28264
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Oceania and Antarctica,1878,40,Provisional,28265
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,The Americas,684,19,Provisional,28266
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Africa and the Middle East,124,4,Provisional,28267
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Asia,283,8,Provisional,28268
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Europe,579,10,Provisional,28269
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Oceania and Antarctica,2319,38,Provisional,28270
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,The Americas,225,6,Provisional,28271
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Africa and the Middle East,6,1,Provisional,28272
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Asia,20,2,Provisional,28273
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Europe,20,2,Provisional,28274
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Oceania and Antarctica,33,3,Provisional,28275
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Other,The Americas,21,1,Provisional,28276
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Africa and the Middle East,222,5,Provisional,28277
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Asia,510,12,Provisional,28278
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Europe,123,4,Provisional,28279
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Oceania and Antarctica,274,7,Provisional,28280
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,The Americas,77,2,Provisional,28281
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Africa and the Middle East,222,9,Provisional,28282
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Asia,1752,54,Provisional,28283
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Europe,170,8,Provisional,28284
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Oceania and Antarctica,121,7,Provisional,28285
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Student,The Americas,176,9,Provisional,28286
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Africa and the Middle East,255,15,Provisional,28287
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Asia,1340,34,Provisional,28288
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Europe,304,8,Provisional,28289
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Oceania and Antarctica,192,8,Provisional,28290
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,The Americas,242,8,Provisional,28291
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Africa and the Middle East,336,9,Provisional,28292
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Asia,848,19,Provisional,28293
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Europe,1065,30,Provisional,28294
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Oceania and Antarctica,255,9,Provisional,28295
+2018-01,2018-11,Long-term migrant,Arrivals,TOTAL,Work,The Americas,325,11,Provisional,28296
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Africa and the Middle East,1102,22,Provisional,28297
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Asia,5138,85,Provisional,28298
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Europe,1276,39,Provisional,28299
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Oceania and Antarctica,1941,42,Provisional,28300
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,The Americas,745,23,Provisional,28301
+2018-08,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Africa and the Middle East,1033,23,Provisional,28302
+2018-08,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Asia,3932,64,Provisional,28303
+2018-08,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Europe,1414,38,Provisional,28304
+2018-08,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Oceania and Antarctica,2432,63,Provisional,28305
+2018-08,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,The Americas,954,28,Provisional,28306
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Africa and the Middle East,62,4,Provisional,28307
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Asia,200,8,Provisional,28308
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Europe,295,9,Provisional,28309
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Oceania and Antarctica,1806,37,Provisional,28310
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,The Americas,145,6,Provisional,28311
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Africa and the Middle East,1,0,Provisional,28312
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Asia,30,3,Provisional,28313
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Europe,13,2,Provisional,28314
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Oceania and Antarctica,99,20,Provisional,28315
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Other,The Americas,9,1,Provisional,28316
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Africa and the Middle East,83,3,Provisional,28317
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Asia,317,9,Provisional,28318
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Europe,71,4,Provisional,28319
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Oceania and Antarctica,253,7,Provisional,28320
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,The Americas,19,2,Provisional,28321
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Africa and the Middle East,193,7,Provisional,28322
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Asia,2846,50,Provisional,28323
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Europe,122,6,Provisional,28324
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Oceania and Antarctica,156,10,Provisional,28325
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Student,The Americas,217,10,Provisional,28326
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Africa and the Middle East,252,7,Provisional,28327
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Asia,1175,24,Provisional,28328
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Europe,259,8,Provisional,28329
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Oceania and Antarctica,214,8,Provisional,28330
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,The Americas,281,8,Provisional,28331
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Africa and the Middle East,276,9,Provisional,28332
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Asia,823,18,Provisional,28333
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Europe,729,26,Provisional,28334
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Oceania and Antarctica,208,10,Provisional,28335
+2018-02,2018-11,Long-term migrant,Arrivals,TOTAL,Work,The Americas,312,13,Provisional,28336
+2018-09,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Africa and the Middle East,829,30,Provisional,28337
+2018-09,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Asia,3646,108,Provisional,28338
+2018-09,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Europe,1993,58,Provisional,28339
+2018-09,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Oceania and Antarctica,2887,105,Provisional,28340
+2018-09,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,The Americas,990,34,Provisional,28341
+2018-10,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Africa and the Middle East,844,37,Provisional,28342
+2018-10,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Asia,3333,82,Provisional,28343
+2018-10,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Europe,2221,75,Provisional,28344
+2018-10,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Oceania and Antarctica,2758,119,Provisional,28345
+2018-10,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,The Americas,962,45,Provisional,28346
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Africa and the Middle East,48,4,Provisional,28347
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Asia,205,9,Provisional,28348
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Europe,272,11,Provisional,28349
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Oceania and Antarctica,1702,39,Provisional,28350
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,The Americas,114,6,Provisional,28351
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Asia,44,8,Provisional,28352
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Europe,6,1,Provisional,28353
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Oceania and Antarctica,73,17,Provisional,28354
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Other,The Americas,2,1,Provisional,28355
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Africa and the Middle East,129,4,Provisional,28356
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Asia,488,14,Provisional,28357
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Europe,52,3,Provisional,28358
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Oceania and Antarctica,279,8,Provisional,28359
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,The Americas,55,3,Provisional,28360
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Africa and the Middle East,125,4,Provisional,28361
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Asia,1141,20,Provisional,28362
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Europe,54,4,Provisional,28363
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Oceania and Antarctica,45,3,Provisional,28364
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Student,The Americas,153,9,Provisional,28365
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Africa and the Middle East,222,7,Provisional,28366
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Asia,1366,28,Provisional,28367
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Europe,205,8,Provisional,28368
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Oceania and Antarctica,250,10,Provisional,28369
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,The Americas,242,9,Provisional,28370
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Africa and the Middle East,248,8,Provisional,28371
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Asia,924,20,Provisional,28372
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Europe,714,27,Provisional,28373
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Oceania and Antarctica,222,10,Provisional,28374
+2018-03,2018-11,Long-term migrant,Arrivals,TOTAL,Work,The Americas,372,17,Provisional,28375
+2018-11,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Africa and the Middle East,784,48,Provisional,28376
+2018-11,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Asia,3139,113,Provisional,28377
+2018-11,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Europe,2598,93,Provisional,28378
+2018-11,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,Oceania and Antarctica,3643,188,Provisional,28379
+2018-11,2018-11,Long-term migrant,Arrivals,TOTAL,TOTAL,The Americas,1028,52,Provisional,28380
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Africa and the Middle East,45,4,Provisional,28381
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Asia,169,8,Provisional,28382
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Europe,176,9,Provisional,28383
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Oceania and Antarctica,1422,38,Provisional,28384
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,The Americas,105,6,Provisional,28385
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Africa and the Middle East,3,1,Provisional,28386
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Asia,22,4,Provisional,28387
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Europe,6,1,Provisional,28388
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Oceania and Antarctica,15,5,Provisional,28389
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Other,The Americas,3,1,Provisional,28390
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Africa and the Middle East,56,3,Provisional,28391
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Asia,364,12,Provisional,28392
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Europe,51,4,Provisional,28393
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Oceania and Antarctica,201,8,Provisional,28394
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,The Americas,20,2,Provisional,28395
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Africa and the Middle East,133,6,Provisional,28396
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Asia,808,24,Provisional,28397
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Europe,44,4,Provisional,28398
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Oceania and Antarctica,40,4,Provisional,28399
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Student,The Americas,103,7,Provisional,28400
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Africa and the Middle East,188,8,Provisional,28401
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Asia,997,27,Provisional,28402
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Europe,161,8,Provisional,28403
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Oceania and Antarctica,243,14,Provisional,28404
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,The Americas,204,10,Provisional,28405
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Africa and the Middle East,261,9,Provisional,28406
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Asia,703,19,Provisional,28407
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Europe,472,22,Provisional,28408
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Oceania and Antarctica,144,9,Provisional,28409
+2018-04,2018-11,Long-term migrant,Arrivals,TOTAL,Work,The Americas,242,13,Provisional,28410
+2017-08,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Africa and the Middle East,904,0,Provisional,28411
+2017-08,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Asia,3990,0,Provisional,28412
+2017-08,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Europe,1020,0,Provisional,28413
+2017-08,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Oceania and Antarctica,1216,0,Provisional,28414
+2017-08,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,The Americas,868,0,Provisional,28415
+2017-08,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Africa and the Middle East,81,0,Provisional,28416
+2017-08,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Asia,277,0,Provisional,28417
+2017-08,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Europe,465,0,Provisional,28418
+2017-08,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Oceania and Antarctica,1343,0,Provisional,28419
+2017-08,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,The Americas,194,0,Provisional,28420
+2017-09,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Africa and the Middle East,837,0,Provisional,28421
+2017-09,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Asia,3726,5,Provisional,28422
+2017-09,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Europe,1445,5,Provisional,28423
+2017-09,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Oceania and Antarctica,1159,3,Provisional,28424
+2017-09,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,The Americas,969,2,Provisional,28425
+2017-09,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Africa and the Middle East,45,0,Provisional,28426
+2017-09,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Asia,173,1,Provisional,28427
+2017-09,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Europe,669,0,Provisional,28428
+2017-09,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Oceania and Antarctica,1433,3,Provisional,28429
+2017-09,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,The Americas,194,0,Provisional,28430
+2017-10,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Africa and the Middle East,897,3,Provisional,28431
+2017-10,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Asia,3758,14,Provisional,28432
+2017-10,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Europe,1600,7,Provisional,28433
+2017-10,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Oceania and Antarctica,1243,8,Provisional,28434
+2017-10,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,The Americas,842,4,Provisional,28435
+2017-10,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Africa and the Middle East,55,0,Provisional,28436
+2017-10,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Asia,179,2,Provisional,28437
+2017-10,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Europe,660,3,Provisional,28438
+2017-10,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Oceania and Antarctica,1383,9,Provisional,28439
+2017-10,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,The Americas,220,2,Provisional,28440
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Africa and the Middle East,41,4,Provisional,28441
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Asia,135,8,Provisional,28442
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Europe,181,8,Provisional,28443
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Oceania and Antarctica,1337,36,Provisional,28444
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,The Americas,111,7,Provisional,28445
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Africa and the Middle East,2,1,Provisional,28446
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Asia,21,5,Provisional,28447
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Europe,11,2,Provisional,28448
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Oceania and Antarctica,17,6,Provisional,28449
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Other,The Americas,4,1,Provisional,28450
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Africa and the Middle East,128,5,Provisional,28451
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Asia,404,13,Provisional,28452
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Europe,40,4,Provisional,28453
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Oceania and Antarctica,269,9,Provisional,28454
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,The Americas,49,4,Provisional,28455
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Africa and the Middle East,117,4,Provisional,28456
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Asia,771,14,Provisional,28457
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Europe,45,4,Provisional,28458
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Oceania and Antarctica,42,3,Provisional,28459
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Student,The Americas,105,7,Provisional,28460
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Africa and the Middle East,237,8,Provisional,28461
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Asia,1243,29,Provisional,28462
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Europe,134,7,Provisional,28463
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Oceania and Antarctica,226,11,Provisional,28464
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,The Americas,173,8,Provisional,28465
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Africa and the Middle East,261,10,Provisional,28466
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Asia,813,19,Provisional,28467
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Europe,528,25,Provisional,28468
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Oceania and Antarctica,167,9,Provisional,28469
+2018-05,2018-11,Long-term migrant,Arrivals,TOTAL,Work,The Americas,207,12,Provisional,28470
+2017-11,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Africa and the Middle East,664,3,Provisional,28471
+2017-11,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Asia,3564,16,Provisional,28472
+2017-11,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Europe,1745,15,Provisional,28473
+2017-11,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Oceania and Antarctica,1442,14,Provisional,28474
+2017-11,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,The Americas,830,6,Provisional,28475
+2017-11,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Africa and the Middle East,61,1,Provisional,28476
+2017-11,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Asia,182,3,Provisional,28477
+2017-11,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Europe,664,2,Provisional,28478
+2017-11,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Oceania and Antarctica,1468,13,Provisional,28479
+2017-11,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,The Americas,170,2,Provisional,28480
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Africa and the Middle East,59,5,Provisional,28481
+2017-12,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Africa and the Middle East,872,6,Provisional,28482
+2017-12,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Asia,2652,21,Provisional,28483
+2017-12,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Europe,1212,13,Provisional,28484
+2017-12,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Oceania and Antarctica,1729,21,Provisional,28485
+2017-12,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,The Americas,713,7,Provisional,28486
+2017-12,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Africa and the Middle East,92,2,Provisional,28487
+2017-12,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Asia,402,6,Provisional,28488
+2017-12,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Europe,962,6,Provisional,28489
+2017-12,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Oceania and Antarctica,2901,26,Provisional,28490
+2017-12,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,The Americas,315,4,Provisional,28491
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Asia,196,9,Provisional,28492
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Europe,197,10,Provisional,28493
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Oceania and Antarctica,1230,34,Provisional,28494
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,The Americas,121,7,Provisional,28495
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Africa and the Middle East,0,0,Provisional,28496
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Asia,30,5,Provisional,28497
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Europe,4,2,Provisional,28498
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Oceania and Antarctica,21,8,Provisional,28499
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Other,The Americas,3,1,Provisional,28500
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Africa and the Middle East,67,3,Provisional,28501
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Asia,441,14,Provisional,28502
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Europe,38,3,Provisional,28503
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Oceania and Antarctica,195,7,Provisional,28504
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,The Americas,29,3,Provisional,28505
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Africa and the Middle East,107,4,Provisional,28506
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Asia,974,20,Provisional,28507
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Europe,58,5,Provisional,28508
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Oceania and Antarctica,49,4,Provisional,28509
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Student,The Americas,148,10,Provisional,28510
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Africa and the Middle East,213,8,Provisional,28511
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Asia,1174,31,Provisional,28512
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Europe,166,8,Provisional,28513
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Oceania and Antarctica,231,12,Provisional,28514
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,The Americas,195,9,Provisional,28515
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Africa and the Middle East,254,10,Provisional,28516
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Asia,854,22,Provisional,28517
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Europe,396,21,Provisional,28518
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Work,Oceania and Antarctica,152,10,Provisional,28519
+2018-06,2018-11,Long-term migrant,Arrivals,TOTAL,Work,The Americas,189,11,Provisional,28520
+2018-01,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Africa and the Middle East,1050,25,Provisional,28521
+2018-01,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Asia,4486,81,Provisional,28522
+2018-01,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Europe,1709,35,Provisional,28523
+2018-01,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Oceania and Antarctica,1572,36,Provisional,28524
+2018-01,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,The Americas,864,18,Provisional,28525
+2018-01,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Africa and the Middle East,116,4,Provisional,28526
+2018-01,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Asia,267,8,Provisional,28527
+2018-01,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Europe,553,10,Provisional,28528
+2018-01,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Oceania and Antarctica,1622,26,Provisional,28529
+2018-01,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,The Americas,202,6,Provisional,28530
+2018-02,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Africa and the Middle East,805,17,Provisional,28531
+2018-02,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Asia,5198,71,Provisional,28532
+2018-02,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Europe,1208,31,Provisional,28533
+2018-02,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,Oceania and Antarctica,1315,39,Provisional,28534
+2018-02,2018-11,Long-term migrant,Arrivals,non-NZ,TOTAL,The Americas,849,22,Provisional,28535
+2018-02,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Africa and the Middle East,61,4,Provisional,28536
+2018-02,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Asia,193,8,Provisional,28537
+2018-02,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Europe,281,9,Provisional,28538
+2018-02,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,Oceania and Antarctica,1421,30,Provisional,28539
+2018-02,2018-11,Long-term migrant,Arrivals,NZ,TOTAL,The Americas,134,6,Provisional,28540
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Africa and the Middle East,110,7,Provisional,28541
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Asia,190,9,Provisional,28542
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Europe,285,11,Provisional,28543
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,Oceania and Antarctica,1351,36,Provisional,28544
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,NZ and Australian citizens,The Americas,139,8,Provisional,28545
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Africa and the Middle East,13,3,Provisional,28546
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Asia,14,3,Provisional,28547
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Europe,6,2,Provisional,28548
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,Other,Oceania and Antarctica,9,3,Provisional,28549
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,Other,The Americas,9,2,Provisional,28550
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Africa and the Middle East,119,5,Provisional,28551
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Asia,380,14,Provisional,28552
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Europe,52,4,Provisional,28553
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,Oceania and Antarctica,145,7,Provisional,28554
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,Resident,The Americas,37,3,Provisional,28555
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Africa and the Middle East,233,8,Provisional,28556
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Asia,2454,56,Provisional,28557
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Europe,370,28,Provisional,28558
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,Student,Oceania and Antarctica,75,6,Provisional,28559
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,Student,The Americas,193,13,Provisional,28560
+2018-07,2018-11,Long-term migrant,Arrivals,TOTAL,Visitor,Africa and the Middle East,240,10,Provisional,28561
