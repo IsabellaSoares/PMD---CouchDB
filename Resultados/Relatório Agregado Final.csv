@@ -1,0 +1,66 @@
+Rótulo,# Amostras,Média,Mediana,90% Line,95% Line,99% Line,Mín.,Máx.,% de Erro,Vazão,KB/s,Sent KB/sec
+Execução - População:Deletar,1,118,118,118,118,118,118,118,0.000%,8.47458,2.04,1.95
+Execução - População:Criar,1,1741,1741,1741,1741,1741,1741,1741,0.000%,.57438,0.16,0.13
+Execução - População:Popular,1,8195,8195,8195,8195,8195,8195,8195,0.000%,.12203,226.09,1143.82
+Execução - População:Indexação,1,219,219,219,219,219,219,219,0.000%,4.56621,1.52,1.61
+Execução - Grupo de 100 usuários:_find - 2 parâmetros,100,1485,1547,2394,2521,2558,179,2588,0.000%,1.92445,15.93,0.87
+Execução - Grupo de 100 usuários:_find - 2 parâmetros e filtro de campos,100,1518,1556,2467,2535,2576,61,2683,0.000%,1.85453,6.82,1.07
+"Execução - Grupo de 100 usuários:_find - 1 parâmetro, filtro de campos e sort",100,18972,19880,25213,25457,25600,7202,25695,0.000%,1.43600,4.87,0.74
+Execução - Grupo de 100 usuários:Inserção,100,254,226,344,449,998,59,1163,0.000%,1.68688,0.58,0.94
+Execução - Grupo de 500 usuários:_find - 2 parâmetros,500,5811,5702,11087,11758,12047,88,12177,0.000%,1.91407,15.84,0.86
+Execução - Grupo de 500 usuários:_find - 2 parâmetros e filtro de campos,500,6053,5842,11322,11755,12044,51,12179,0.000%,1.83857,6.76,1.06
+"Execução - Grupo de 500 usuários:_find - 1 parâmetro, filtro de campos e sort",500,81851,94236,126297,127271,128001,615,128189,0.000%,1.39640,4.72,0.72
+Execução - Grupo de 500 usuários:Inserção,500,649,648,1061,1141,1352,65,1722,0.000%,1.39551,0.48,0.76
+Execução - Grupo de 1000 usuários:_find - 2 parâmetros,1000,17237,18304,30901,31990,32275,91,32513,0.000%,1.88020,15.56,0.85
+Execução - Grupo de 1000 usuários:_find - 2 parâmetros e filtro de campos,1000,18138,19743,31366,31994,32277,73,32514,0.000%,1.78038,6.55,1.02
+"Execução - Grupo de 1000 usuários:_find - 1 parâmetro, filtro de campos e sort",1000,282992,329761,385747,387370,388619,746,389637,0.000%,1.19238,4.00,0.61
+Execução - Grupo de 1000 usuários:Inserção,1000,1970,2001,3120,3460,4404,145,5384,0.000%,1.19290,0.41,0.66
+Validação 1 - População:Deletar,1,85,85,85,85,85,85,85,0.000%,11.76471,2.84,2.71
+Validação 1 - População:Criar,1,1256,1256,1256,1256,1256,1256,1256,0.000%,.79618,0.22,0.18
+Validação 1 - População:Popular,1,7627,7627,7627,7627,7627,7627,7627,0.000%,.13111,242.93,1229.00
+Validação 1 - População:Indexação,1,111,111,111,111,111,111,111,0.000%,9.00901,2.98,3.17
+Validação 1 - Grupo de 100 usuários:_find - 2 parâmetros,100,1431,1396,2412,2573,2666,77,2682,0.000%,1.92682,15.95,0.87
+Validação 1 - Grupo de 100 usuários:_find - 2 parâmetros e filtro de campos,100,1467,1438,2437,2572,2649,64,2676,0.000%,1.84911,6.80,1.06
+"Validação 1 - Grupo de 100 usuários:_find - 1 parâmetro, filtro de campos e sort",100,18429,19488,25297,25597,25712,5813,25805,0.000%,1.42049,4.81,0.73
+Validação 1 - Grupo de 100 usuários:Inserção,100,229,215,333,378,535,73,654,0.000%,1.61447,0.55,0.90
+Validação 1 - Grupo de 500 usuários:_find - 2 parâmetros,500,6483,6319,12122,12581,12892,57,13135,0.000%,1.90400,15.76,0.86
+Validação 1 - Grupo de 500 usuários:_find - 2 parâmetros e filtro de campos,500,6792,6613,12487,12818,13005,71,13132,0.000%,1.82199,6.70,1.05
+"Validação 1 - Grupo de 500 usuários:_find - 1 parâmetro, filtro de campos e sort",500,91132,105359,137101,138686,139598,888,140052,0.000%,1.36106,4.60,0.70
+Validação 1 - Grupo de 500 usuários:Inserção,500,708,694,1159,1269,1502,67,2379,0.000%,1.36348,0.47,0.75
+Validação 1 - Grupo de 1000 usuários:_find - 2 parâmetros,1000,18086,17342,35189,36505,36891,90,37027,0.000%,1.86626,15.45,0.84
+Validação 1 - Grupo de 1000 usuários:_find - 2 parâmetros e filtro de campos,1000,19187,18750,35635,36461,36884,55,37024,0.000%,1.75549,6.46,1.01
+"Validação 1 - Grupo de 1000 usuários:_find - 1 parâmetro, filtro de campos e sort",1000,300398,358502,425610,427773,429561,1094,430461,0.000%,1.13390,3.81,0.58
+Validação 1 - Grupo de 1000 usuários:Inserção,1000,2091,2079,3422,3901,5330,80,6917,0.000%,1.13493,0.39,0.63
+Validação 2 - População:Deletar,1,74,74,74,74,74,74,74,0.000%,13.51351,3.26,3.11
+Validação 2 - População:Criar,1,1045,1045,1045,1045,1045,1045,1045,0.000%,.95694,0.27,0.22
+Validação 2 - População:Popular,1,9335,9335,9335,9335,9335,9335,9335,0.000%,.10712,198.48,1004.13
+Validação 2 - População:Indexação,1,130,130,130,130,130,130,130,0.000%,7.69231,2.55,2.70
+Validação 2 - Grupo de 100 usuários:_find - 2 parâmetros,100,1611,1724,2624,2743,2825,56,2864,0.000%,1.91248,15.83,0.86
+Validação 2 - Grupo de 100 usuários:_find - 2 parâmetros e filtro de campos,100,1664,1811,2665,2742,2825,62,2834,0.000%,1.82926,6.73,1.05
+"Validação 2 - Grupo de 100 usuários:_find - 1 parâmetro, filtro de campos e sort",100,20969,22743,27521,27650,27757,5961,27818,0.000%,1.37084,4.65,0.70
+Validação 2 - Grupo de 100 usuários:Inserção,100,261,256,374,430,629,82,735,0.000%,1.54883,0.53,0.86
+Validação 2 - Grupo de 500 usuários:_find - 2 parâmetros,500,6527,6351,11986,12843,13213,94,13512,0.000%,1.90709,15.79,0.86
+Validação 2 - Grupo de 500 usuários:_find - 2 parâmetros e filtro de campos,500,6798,6699,12287,12817,13223,54,13509,0.000%,1.82434,6.71,1.05
+"Validação 2 - Grupo de 500 usuários:_find - 1 parâmetro, filtro de campos e sort",500,92150,105914,138523,139312,140135,696,140309,0.000%,1.35427,4.58,0.69
+Validação 2 - Grupo de 500 usuários:Inserção,500,721,689,1200,1349,1565,77,2032,0.000%,1.35604,0.46,0.74
+Validação 2 - Grupo de 1000 usuários:_find - 2 parâmetros,1000,16547,16389,30368,31841,32025,91,32286,0.000%,1.88236,15.58,0.85
+Validação 2 - Grupo de 1000 usuários:_find - 2 parâmetros e filtro de campos,1000,17411,18174,30901,31811,32010,95,32202,0.000%,1.78400,6.56,1.03
+"Validação 2 - Grupo de 1000 usuários:_find - 1 parâmetro, filtro de campos e sort",1000,269794,312718,373819,376048,377951,1461,378743,0.000%,1.19790,4.02,0.61
+Validação 2 - Grupo de 1000 usuários:Inserção,1000,1977,1906,3176,3939,5346,73,6204,0.000%,1.19883,0.41,0.66
+Validação 3 - População:Deletar,1,95,95,95,95,95,95,95,0.000%,10.52632,2.54,2.43
+Validação 3 - População:Criar,1,3077,3077,3077,3077,3077,3077,3077,0.000%,.32499,0.09,0.07
+Validação 3 - População:Popular,1,8375,8375,8375,8375,8375,8375,8375,0.000%,.11940,221.23,1119.23
+Validação 3 - População:Indexação,1,81,81,81,81,81,81,81,0.000%,12.34568,4.09,4.34
+Validação 3 - Grupo de 100 usuários:_find - 2 parâmetros,100,1550,1656,2525,2704,2740,64,2768,0.000%,1.91399,15.84,0.86
+Validação 3 - Grupo de 100 usuários:_find - 2 parâmetros e filtro de campos,100,1603,1698,2599,2698,2751,59,2833,0.000%,1.83375,6.74,1.05
+"Validação 3 - Grupo de 100 usuários:_find - 1 parâmetro, filtro de campos e sort",100,19863,21702,26654,26840,26935,5342,27010,0.000%,1.40109,4.75,0.72
+Validação 3 - Grupo de 100 usuários:Inserção,100,247,232,349,395,597,96,644,0.000%,1.57438,0.54,0.88
+Validação 3 - Grupo de 500 usuários:_find - 2 parâmetros,500,6402,6227,11855,12535,12804,94,13072,0.000%,1.90444,15.76,0.86
+Validação 3 - Grupo de 500 usuários:_find - 2 parâmetros e filtro de campos,500,6698,6552,12403,12697,12957,57,13096,0.000%,1.82291,6.70,1.05
+"Validação 3 - Grupo de 500 usuários:_find - 1 parâmetro, filtro de campos e sort",500,90243,103981,134755,135883,136640,798,136856,0.000%,1.36180,4.60,0.70
+Validação 3 - Grupo de 500 usuários:Inserção,500,712,725,1140,1239,1432,77,1983,0.000%,1.36282,0.47,0.75
+Validação 3 - Grupo de 1000 usuários:_find - 2 parâmetros,1000,18090,18222,34310,35939,36427,80,36692,0.000%,1.86967,15.48,0.84
+Validação 3 - Grupo de 1000 usuários:_find - 2 parâmetros e filtro de campos,1000,19161,19323,34902,35898,36355,57,36695,0.000%,1.75962,6.47,1.01
+"Validação 3 - Grupo de 1000 usuários:_find - 1 parâmetro, filtro de campos e sort",1000,303946,355788,424376,427183,429030,1110,429673,0.000%,1.14392,3.84,0.59
+Validação 3 - Grupo de 1000 usuários:Inserção,1000,2063,2075,3437,3902,4928,105,6418,0.000%,1.14492,0.39,0.63
+TOTAL,25616,59461,9841,294416,372102,422979,51,430461,0.000%,4.90134,20.60,9.73
