@@ -5,7 +5,7 @@
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,334,0,Final,28165
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Austria,1,0,Final,28166
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Canada,5,0,Final,28167
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,"China, People's Republic of",2,0,Final,28168
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,China,2,0,Final,28168
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Europe,22,0,Final,28169
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Hong Kong (Special Administrative Region),2,0,Final,28170
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Indonesia,5,0,Final,28171
@@ -26,15 +26,15 @@
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Asia,42,0,Final,28186
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Bahrain,1,0,Final,28187
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Cambodia,1,0,Final,28188
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,"China, People's Republic of",8,0,Final,28189
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,"Czech Republic (to Sep 2018), Czechia (from Oct 2018)",1,0,Final,28190
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,China,8,0,Final,28189
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Czech Republic / Czechia,1,0,Final,28190
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Denmark,1,0,Final,28191
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Europe,7,0,Final,28192
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Fiji,4,0,Final,28193
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,India,7,0,Final,28194
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Indonesia,1,0,Final,28195
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Italy,1,0,Final,28196
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,"Korea, Republic of",1,0,Final,28197
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Republic of Korea,1,0,Final,28197
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Malaysia,5,0,Final,28198
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Nigeria,2,0,Final,28199
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Not Stated,9,0,Final,28200
@@ -64,7 +64,7 @@
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Cambodia,3,0,Final,28224
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Canada,16,0,Final,28225
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Chile,3,0,Final,28226
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,"China, People's Republic of",191,0,Final,28227
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,China,191,0,Final,28227
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Colombia,2,0,Final,28228
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Cook Islands,1,0,Final,28229
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Croatia,1,0,Final,28230
@@ -86,7 +86,7 @@
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Japan,3,0,Final,28246
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Jordan,1,0,Final,28247
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Kenya,1,0,Final,28248
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,"Korea, Republic of",19,0,Final,28249
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Republic of Korea,19,0,Final,28249
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Kuwait,2,0,Final,28250
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Malaysia,52,0,Final,28251
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Nepal,2,0,Final,28252
@@ -102,7 +102,7 @@
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Romania,2,0,Final,28262
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Russia,2,0,Final,28263
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Samoa,145,0,Final,28264
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,"Samoa, American",1,0,Final,28265
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Samoa,1,0,Final,28265
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Saudi Arabia,16,0,Final,28266
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,Singapore,23,0,Final,28267
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Resident,South Africa,41,0,Final,28268
@@ -130,7 +130,7 @@
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Student,Cambodia,6,0,Final,28290
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Student,Canada,8,0,Final,28291
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Student,Chile,1,0,Final,28292
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Student,"China, People's Republic of",200,0,Final,28293
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Student,China,200,0,Final,28293
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Student,Colombia,15,0,Final,28294
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Student,Denmark,2,0,Final,28295
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Student,Europe,61,0,Final,28296
@@ -147,7 +147,7 @@
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Student,Kazakhstan,1,0,Final,28307
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Student,Kenya,2,0,Final,28308
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Student,Kiribati,3,0,Final,28309
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Student,"Korea, Republic of",22,0,Final,28310
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Student,Republic of Korea,22,0,Final,28310
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Student,Kuwait,1,0,Final,28311
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Student,Libya,1,0,Final,28312
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Student,Malaysia,32,0,Final,28313
@@ -208,11 +208,11 @@
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Cambodia,6,0,Final,28368
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Canada,20,0,Final,28369
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Chile,18,0,Final,28370
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,"China, People's Republic of",218,0,Final,28371
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,China,218,0,Final,28371
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Colombia,2,0,Final,28372
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Congo,1,0,Final,28373
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Croatia,3,0,Final,28374
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,"Czech Republic (to Sep 2018), Czechia (from Oct 2018)",1,0,Final,28375
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Czech Republic / Czechia,1,0,Final,28375
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Ethiopia,2,0,Final,28376
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Europe,140,0,Final,28377
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Fiji,88,0,Final,28378
@@ -231,7 +231,7 @@
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Kazakhstan,2,0,Final,28391
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Kenya,3,0,Final,28392
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Kiribati,4,0,Final,28393
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,"Korea, Republic of",74,0,Final,28394
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Republic of Korea,74,0,Final,28394
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Libya,1,0,Final,28395
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Macau (Special Administrative Region),2,0,Final,28396
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Malaysia,34,0,Final,28397
@@ -252,7 +252,7 @@
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Poland,1,0,Final,28412
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Russia,9,0,Final,28413
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Samoa,6,0,Final,28414
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",5,0,Final,28415
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Samoa,5,0,Final,28415
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Saudi Arabia,22,0,Final,28416
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Singapore,84,0,Final,28417
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Visitor,Slovakia,1,0,Final,28418
@@ -291,9 +291,9 @@
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Cambodia,3,0,Final,28451
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Canada,28,0,Final,28452
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Chile,24,0,Final,28453
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,"China, People's Republic of",86,0,Final,28454
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,China,86,0,Final,28454
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Colombia,1,0,Final,28455
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,"Czech Republic (to Sep 2018), Czechia (from Oct 2018)",19,0,Final,28456
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Czech Republic / Czechia,19,0,Final,28456
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Denmark,1,0,Final,28457
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Djibouti,1,0,Final,28458
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Egypt,1,0,Final,28459
@@ -313,7 +313,7 @@
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Jordan,1,0,Final,28473
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Kenya,1,0,Final,28474
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Kiribati,1,0,Final,28475
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,"Korea, Republic of",38,0,Final,28476
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Republic of Korea,38,0,Final,28476
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Kuwait,2,0,Final,28477
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Latvia,1,0,Final,28478
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Lebanon,1,0,Final,28479
@@ -342,7 +342,7 @@
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Reunion,1,0,Final,28502
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Russia,5,0,Final,28503
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Samoa,4,0,Final,28504
-2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,"Samoa, American",1,0,Final,28505
+2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Samoa,1,0,Final,28505
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Saudi Arabia,18,0,Final,28506
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Serbia,2,0,Final,28507
 2014-06,2018-12,Long-term migrant,Arrivals,non-NZ,Work,Singapore,19,0,Final,28508
@@ -378,11 +378,11 @@
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Canada,42,0,Final,28538
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Cayman Islands,1,0,Final,28539
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Chile,4,0,Final,28540
-2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,"China, People's Republic of",52,0,Final,28541
+2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,China,52,0,Final,28541
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Cook Islands,19,0,Final,28542
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Costa Rica,1,0,Final,28543
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Curacao,2,0,Final,28544
-2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,"Czech Republic (to Sep 2018), Czechia (from Oct 2018)",2,0,Final,28545
+2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Czech Republic / Czechia,2,0,Final,28545
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Denmark,1,0,Final,28546
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Egypt,3,0,Final,28547
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Europe,259,0,Final,28548
@@ -401,7 +401,7 @@
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Italy,1,0,Final,28561
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Japan,11,0,Final,28562
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Jordan,1,0,Final,28563
-2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,"Korea, Republic of",15,0,Final,28564
+2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Republic of Korea,15,0,Final,28564
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Kuwait,9,0,Final,28565
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Laos,1,0,Final,28566
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Malaysia,2,0,Final,28567
@@ -425,7 +425,7 @@
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Qatar,9,0,Final,28585
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Russia,1,0,Final,28586
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Samoa,20,0,Final,28587
-2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,"Samoa, American",3,0,Final,28588
+2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Samoa,3,0,Final,28588
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Saudi Arabia,11,0,Final,28589
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Sierra Leone,1,0,Final,28590
 2014-06,2018-12,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Singapore,31,0,Final,28591
@@ -453,7 +453,7 @@
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Cambodia,1,0,Final,28613
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Canada,5,0,Final,28614
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Cayman Islands,1,0,Final,28615
-2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,"China, People's Republic of",1,0,Final,28616
+2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,China,1,0,Final,28616
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Egypt,3,0,Final,28617
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Europe,13,0,Final,28618
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,India,3,0,Final,28619
@@ -485,7 +485,7 @@
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Asia,51,0,Final,28645
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Australia,1,0,Final,28646
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Cambodia,1,0,Final,28647
-2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,Other,"China, People's Republic of",18,0,Final,28648
+2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,Other,China,18,0,Final,28648
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Denmark,2,0,Final,28649
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Europe,13,0,Final,28650
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Fiji,1,0,Final,28651
@@ -495,7 +495,7 @@
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Indonesia,5,0,Final,28655
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Italy,2,0,Final,28656
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Japan,8,0,Final,28657
-2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,Other,"Korea, Republic of",1,0,Final,28658
+2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Republic of Korea,1,0,Final,28658
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Lebanon,1,0,Final,28659
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Malaysia,4,0,Final,28660
 2014-07,2018-12,Long-term migrant,Arrivals,non-NZ,Other,Not Stated,10,0,Final,28661
