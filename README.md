@@ -24,12 +24,12 @@ Executar o arquivo:
 
 - **Dados**
 
-`PMD.json`
-
-`PMD. csv`
+Os dados da população inicial do BD estão nos arquivos `PMD.json` e `PMD. csv`.
 
 Dados originais: "international-migration-april-2019-citizenship-by-visa-by-country-of-last-permanent-residence.csv"
 
-- **Apresentação com os resultados**
+Os dados utilizados para as operações de escrita durante os testes estão na pasta `CSV Inserções`.
 
-https://v2.overleaf.com/read/qdwxzvhwqcxb
+- **Resultados**
+
+Os resultados estão na pasta `Resultados`, com os Relatórios Agregados de todas as etapas do teste.
