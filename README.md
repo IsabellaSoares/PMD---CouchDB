@@ -15,13 +15,14 @@ O objetivo é desenvolver um script de teste de performance, carga e estresse pa
 - **Avisos prévios quanto à execução** 
 
 Todos os arquivos necessários para a execução de testes encontram-se neste projeto.
-Utilize o JMeter que se encontra nesta pasta e execute-o a partir dela (as configurações de caminhos estão feitas a partir desta pasta)
+Utilize o JMeter que se encontra neste projeto e execute-o a partir da pasta na qual se encontra (as configurações de caminhos estão feitas a partir desta pasta)
 
 - **Executando o JMeter no Windows** 
 
 Executar o arquivo:
 
 `apache-jmeter-5.1.1/bin/jmeter.bat`
+
 (Recomenda-se a versão mais recente de Java presente no computador)
 
 - **Plano de teste**
