@@ -13,6 +13,7 @@ Alunos:
 O objetivo é desenvolver um script de teste de performance, carga e estresse para o banco de dados CouchDB. A ferramenta utilizada para coletar as métricas é o Apache JMeter. Os dados estão em um arquivo no format JSON e foram retirados de um repositório online. Apenas parte dos dados é utilizado nos testes, um total de 28.061 documentos.
 
 - **Avisos prévios quanto à execução** 
+
 Todos os arquivos necessários para a execução de testes encontram-se neste projeto.
 Utilize o JMeter que se encontra nesta pasta e execute-o a partir dela (as configurações de caminhos estão feitas a partir desta pasta)
 
